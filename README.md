@@ -41,10 +41,9 @@ I am a passionate Full-Stack Developer dedicated to building robust, scalable, a
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cooleo273&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cooleo273&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cooleo273&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 
 ### 🎬 Beyond the Code
