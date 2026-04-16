@@ -41,8 +41,8 @@ I am a passionate Full-Stack Developer dedicated to building robust, scalable, a
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leultadesse&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leultadesse&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cooleo273&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cooleo273&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -58,8 +58,7 @@ When I'm not pushing code, you'll likely find me:
 
 ### 📫 Connect with Me
 
-- **Portfolio:** [your-portfolio-link.com]
-- **LinkedIn:** [linkedin.com/in/your-profile]
-- **Email:** [your-email@example.com]
+- **LinkedIn:** [https://www.linkedin.com/in/leul-tadesse-386bb3225]
+- **Email:** [leulteferi273@gmail.com]
 
 *"Building the future, one commit at a time."*
